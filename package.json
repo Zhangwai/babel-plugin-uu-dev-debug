@@ -12,14 +12,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git"
+    "url": "git+https://github.com/Zhangwai/babel-plugin-uu-dev-debug"
   },
   "keywords": [
     "debug",
     "babel-plugin",
     "dev"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/Zhangwai/babel-plugin-uu-dev-debug#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "jest": "^26.6.3"
