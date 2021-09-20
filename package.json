@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-uu-dev-debug",
+  "version": "1.0.0",
+  "description": "this is an babel plugin for dev NODE_EVN debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "debug",
+    "babel-plugin",
+    "dev"
+  ],
+  "homepage": "",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "jest": "^26.6.3"
+  },
+  "author": "Zhangwai",
+  "license": "ISC"
+}
